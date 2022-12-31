@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Toyeen1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+"Hi, I'm [Name] - a product manager and business analyst with a focus on driving growth 
+and innovation in the tech industry. My skills in data analysis and product development h
+ave helped me deliver successful results for companies in the past,
+and I'm always looking for new challenges to tackle. Thank you for visiting my website!"
+<!---
+Toyeen1/Toyeen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
