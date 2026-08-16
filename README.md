@@ -1,8 +1,10 @@
 Hi, I'm Toyin 👋
 AI strategy consultant and product manager with a background in business analytics, based in USA.
+
 I build systems for organizations that need to make good decisions under real constraints, whether that's a nonprofit trying to responsibly adopt AI, or a business trying to figure out where its next customer is coming from.
 
 What I do
+
 🦋 Founder, Butterfly Mandate Group (BMG) — an AI strategy and systems consulting practice for purpose-driven organizations, built around a diagnostic framework for assessing organizational AI readiness
 
 🎓 Product Ops Manager, Heaven's Gate Academy — a nonprofit edtech platform, where I own product strategy, LMS operations, and student experience
