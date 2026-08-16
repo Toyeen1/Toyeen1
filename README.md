@@ -12,7 +12,9 @@ What I do
 🌱 Building toward a PhD studying how resource-constrained organizations build the capacity to adopt AI effectively
 
 Featured projects
+
 Project	Summary
+
 Hospital Readmission Propensity Model	Built a classification model predicting 30-day patient readmission risk from clinical and demographic data, evaluated with ROC/AUC, and translated into a stakeholder-facing recommendation.
 
 Retail Customer Micro-Segmentation	Identified four high-value customer micro-segments from loyalty and demographic data to inform targeted marketing strategy.
