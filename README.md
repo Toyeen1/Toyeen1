@@ -6,8 +6,8 @@ I build systems for organizations that need to make good decisions under real co
 
 ## What I do
 
-- 🦋 **Founder, Butterfly Mandate Group (BMG)** — an AI strategy and systems consulting practice for purpose-driven organizations, built around a diagnostic framework for assessing organizational AI readiness
-- 🎓 **Product Ops Manager, Heaven's Gate Academy** — a nonprofit edtech platform, where I own product strategy, LMS operations, and student experience
+- 🦋 **Tinkering on Butterfly Mandate Group (BMG)** — tinkering - a full-service consulting practice for purpose-driven organizations, spanning business strategy, product, marketing, and AI strategy, built around a diagnostic framework for assessing organizational AI readiness
+- 🎓 **Serving with Heaven's Gate Academy** — a nonprofit edtech platform and community, where I support product strategy, LMS operations, and student experience
 - 📊 Background in business analytics: forecasting, classification, segmentation, and market analysis, using Python, R, and Tableau
 - 🌱 Building toward a PhD studying how resource-constrained organizations build the capacity to adopt AI effectively
 
