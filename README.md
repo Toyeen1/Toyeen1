@@ -11,17 +11,13 @@ I build systems for organizations that need to make good decisions under real co
 - 📊 Background in business analytics: forecasting, classification, segmentation, and market analysis, using Python, R, and Tableau
 - 🌱 Building toward a PhD studying how resource-constrained organizations build the capacity to adopt AI effectively
 
-## Featured projects
+## Featured work
 
-| Project | Summary |
-|---|---|
-| [Hospital Readmission Propensity Model](./hospital-readmission-prediction) | Built a classification model predicting 30-day patient readmission risk from clinical and demographic data, evaluated with ROC/AUC, and translated into a stakeholder-facing recommendation. |
-| [Retail Customer Micro-Segmentation](./bby-microsegmentation-analysis) | Identified four high-value customer micro-segments from loyalty and demographic data to inform targeted marketing strategy. |
-| [Global Market Entry Analysis](./market-entry-analysis-sports-brand) | Evaluated eight candidate international markets for a sports clothing brand's expansion using economic, demographic, and competitive data. |
-| [Advertising Budget Allocation Strategy](./superstore-budget-allocation) | Analyzed two years of sales and margin data to build a weighted budget allocation model across product categories and regions. |
+**[product-case-studies](https://github.com/Toyeen1/product-case-studies)** — Case studies from my professional work in product management and operations, including a 5-year arc at Nairabox (PM → Lead PM → COO) that drove a $130K+ Mastercard partnership and cut ticketing wait times from 15 minutes to 20 seconds.
 
-More projects, including product case studies from my professional work and the BMG diagnostic framework, are on their way.
+**[business-analytics-portfolio](https://github.com/Toyeen1/business-analytics-portfolio)** — Graduate coursework in forecasting, classification, segmentation, and market analysis, including a hospital readmission prediction model, a retail customer micro-segmentation study, and an interactive Tableau dashboard.
 
 ## Let's connect
 
 📫 [LinkedIn](https://www.linkedin.com/in/toyin-emmanuel/)
+
