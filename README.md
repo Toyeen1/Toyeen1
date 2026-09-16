@@ -1,23 +1,36 @@
 # Hi, I'm Toyin 👋
 
-Product manager and AI strategy consultant with a background in business analytics, based in Texas.
+I'm a product and operations leader, AI strategy consultant, and systems builder with a background in business analytics, based in Texas.
 
-I build systems for organizations that need to make good decisions under real constraints, whether that's a nonprofit trying to responsibly adopt AI, or a business trying to figure out where its next customer is coming from.
-
-## What I do
-
-- 🦋 **Tinkering on Butterfly Mandate Group (BMG)** — tinkering - a full-service consulting practice for purpose-driven organizations, spanning business strategy, product, marketing, and AI strategy, built around a diagnostic framework for assessing organizational AI readiness
-- 🎓 **Serving with Heaven's Gate Academy** — a nonprofit edtech platform and community, where I support product strategy, LMS operations, and student experience
-- 📊 Background in business analytics: forecasting, classification, segmentation, and market analysis, using Python, R, and Tableau
-- 🌱 Building toward a PhD studying how resource-constrained organizations build the capacity to adopt AI effectively
+I help organizations move from ambition and technology into clear strategy, usable systems, stronger capabilities, and measurable execution. My developing research interest is how resource-constrained organizations build the capacity to adopt AI effectively and responsibly.
 
 ## Featured work
 
-**[product-case-studies](https://github.com/Toyeen1/product-case-studies)** — Case studies from my professional work in product management and operations, including a 5-year arc at Nairabox (PM → Lead PM → COO) that drove a $130K+ Mastercard partnership and cut ticketing wait times from 15 minutes to 20 seconds.
+### [BMG AI Readiness Diagnostic](https://github.com/Toyeen1/product-case-studies/tree/main/bmg-ai-readiness-diagnostic)
 
-**[business-analytics-portfolio](https://github.com/Toyeen1/business-analytics-portfolio)** — Graduate coursework in forecasting, classification, segmentation, and market analysis, including a hospital readmission prediction model, a retail customer micro-segmentation study, and an interactive Tableau dashboard.
+A working 18-question prototype that assesses organizational readiness across strategy, governance, data and technology, workflows, people and adoption, and measurement. It translates the weakest capability into a practical first move and documents the scoring model, responsible-use limits, and a sample implementation roadmap.
+
+**Signals:** AI strategy · organizational capability · responsible AI · product thinking · systems design · HTML/CSS/JavaScript
+
+### [Nairabox: Scaling a Digital Lifestyle Platform](https://github.com/Toyeen1/product-case-studies/tree/main/nairabox-digital-lifestyle-platform)
+
+A product and operations case study spanning my progression from Product Manager to Chief Operating Officer, including API-based ticketing, a $130K+ Mastercard partnership, new integrations, and measurable operational and revenue outcomes.
+
+**Signals:** product strategy · platform operations · partnerships · APIs · cross-functional leadership
+
+### [Business Analytics Portfolio](https://github.com/Toyeen1/business-analytics-portfolio)
+
+Projects in forecasting, classification, segmentation, market analysis, and stakeholder-facing decision support using Python, R, and Tableau.
+
+**Signals:** analytical methods · decision support · data storytelling · business translation
+
+## Current direction
+
+- Building Butterfly Mandate Group (BMG), an emerging strategy, AI, systems, and organizational capability practice
+- Supporting product strategy, LMS operations, and student experience with Heaven's Gate Academy
+- Developing toward PhD research on AI adoption, organizational capability, and resource-constrained contexts
+- Turning strategic frameworks into testable tools, workflows, and evidence
 
 ## Let's connect
 
-📫 [LinkedIn](https://www.linkedin.com/in/toyin-emmanuel/)
-
+[LinkedIn](https://www.linkedin.com/in/toyin-emmanuel/)
